@@ -1,3 +1,3 @@
 # Portfolio Website
 
-Hosted at: https://meghanaayyala.github.io/meghanaayso/
+Hosted at: https://meghanaayyala.github.io
